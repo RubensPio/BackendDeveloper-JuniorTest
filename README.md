@@ -1,6 +1,6 @@
 # Backend Developer - Junior Test
 
-Fluxo de cadastro de estudantes. Usando um formulário HTML que faça uma requisição HTTP para uma URL que deverá processar e salvar tudo em algum banco de dados.
+Fluxo de cadastro de estudantes.
 
 # Informações técnicas 
 
